@@ -21,7 +21,7 @@ This project focuses on developing an interactive dashboard using Power BI to mo
 4. Explore the data using the provided parameters and filters.
 
 ## Credits
-- [Your Name/Username]
+- Rohan Tekale
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
