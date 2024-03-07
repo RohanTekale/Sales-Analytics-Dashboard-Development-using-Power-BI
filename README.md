@@ -27,4 +27,4 @@ You can view the live project [here](https://www.novypro.com/project/sales-analy
 - RohanTekale
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([LICENSE](https://github.com/RohanTekale/Sales-Analytics-Dashboard-Development-using-Power-BI/blob/main/License)https://github.com/RohanTekale/Sales-Analytics-Dashboard-Development-using-Power-BI/blob/main/License).
