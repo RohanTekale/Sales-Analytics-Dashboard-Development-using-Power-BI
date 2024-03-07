@@ -20,8 +20,11 @@ This project focuses on developing an interactive dashboard using Power BI to mo
 3. Customize the dashboard according to your requirements.
 4. Explore the data using the provided parameters and filters.
 
+## Live Project
+You can view the live project [here](https://www.novypro.com/project/sales-analytics-dashboard-development-using-power-bi-power-bi).
+
 ## Credits
-- Rohan Tekale
+- [Your Name/Username]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
